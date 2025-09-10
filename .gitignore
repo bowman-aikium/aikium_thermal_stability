@@ -1,3 +1,5 @@
 meltome.csv
 meltome_cleaned.csv
 cross-species.csv
+Data/esm2_embeddings.npy
+Data/esm2_embeddings_with_ids.npz
